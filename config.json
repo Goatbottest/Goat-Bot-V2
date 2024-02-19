@@ -18,7 +18,9 @@
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [],
+	"adminBot": [
+		"61550037082227"
+	],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
@@ -41,14 +43,14 @@
 	"credentials": {
 		"gmailAccount": {
 			"email": "",
-			"clientId": "",
-			"clientSecret": "",
-			"refreshToken": "",
+			"clientId": "407168939339-ni7uvp8054bpnht4280n6d3no4qrf3mv.apps.googleusercontent.com",
+			"clientSecret": "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",
+			"refreshToken": "1//041Aj0DBzlyxuCgYIARAAGAQSNwF-L9IrSJFfXahDmIC5CaNNthQwg0yT8ZrFaUUofZBR13qsh-nNBLi7_4LZMlZ00F8AiWo6Moo",
 			"apiKey": ""
 		},
 		"gRecaptcha": {
-			"siteKey": "",
-			"secretKey": ""
+			"siteKey": "6LdtgYMoAAAAABS1V6_RlEsUXf7dNLIzbc4EPhbt",
+			"secretKey": "6LdtgYMoAAAAAKXtH5f06qZBq28VXXqOb6rOSGQ5"
 		}
 	},
 	"dashBoard": {
